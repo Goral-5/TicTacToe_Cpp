@@ -43,11 +43,3 @@ C  | |
 Player X wins!
 Scores: X: 1, O: 0
 Play again? (Y/N): N
-
-git init
-git add TicTacToe.cpp README.md
-git commit -m "Initial commit"
-git branch -M main
-git remote add origin https://github.com/Goral-5/TicTacToe_Cpp.git
-git push -u origin main
-   
